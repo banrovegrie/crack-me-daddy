@@ -1,0 +1,26 @@
+Passwords
+---------
+
+- [X] bandit0
+- [X] bandit1
+- [X] bandit2
+- [X] bandit3 pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+- [X] bandit4 koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+- [X] bandit5 DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+- [X] bandit6 HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+- [X] bandit7 cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+- [X] bandit8 UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+- [X] bandit9 truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+- [X] bandit10 IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+- [X] bandit11 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
+- [X] bandit12 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
+- [X] bandit13
+- [X] bandit14 BfMYroe26WYalil77FoDi9qh59eK5xNr
+- [X] bandit15 cluFn7wTiGryunymYOu4RcffSxQluehd
+- [X] bandit16
+- [X] bandit17
+- [X] bandit18 IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x
+- [X] bandit20 GbKksEFF4yrVs6il55v6gwY5aVje5f0j
+- [X] bandit20 gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr
+- [X] bandit21 Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI
+- [X] bandit22 jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n
